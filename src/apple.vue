@@ -153,4 +153,7 @@ export default {
 .appleBasket > .btn-div > button:hover {
   background-color: #55d98d;
 }
+button {
+  cursor: pointer;
+}
 </style>

@@ -64,5 +64,6 @@
     "webpack-hot-middleware": "^2.12.2",
     "webpack-merge": "^0.14.1",
     "husky": "^1.1.2"
-  }
+  },
+  "repository": "https://github.com/zhoushoujian/pickApples-vuex"
 }
